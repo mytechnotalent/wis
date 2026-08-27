@@ -1,4 +1,4 @@
-<img src="https://github.com/mytechnotalent/is/blob/main/is.png?raw=true">
+<img src="https://github.com/mytechnotalent/is/blob/main/wis.png?raw=true">
 
 ## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
 
@@ -22,7 +22,7 @@ By using this repository and course, you acknowledge and agree that:
 
 <br>
 
-# Indirect Syscall
+# Windows Indirect Syscall
 
 A minimal, runnable, educational demonstration of **direct** vs **indirect**
 Windows system calls in NASM x64 assembly, driven by a C wrapper, targeting a
@@ -85,4 +85,4 @@ RE/red-team curriculum and equally useful for defenders writing tooling.
 <br>
 
 ## License
-[MIT](https://github.com/mytechnotalent/is/blob/master/LICENSE)
+[MIT](https://github.com/mytechnotalent/wis/blob/master/LICENSE)
