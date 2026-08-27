@@ -85,4 +85,4 @@ RE/red-team curriculum and equally useful for defenders writing tooling.
 <br>
 
 ## License
-[MIT](https://github.com/mytechnotalent/wis/blob/master/LICENSE)
+[MIT](https://github.com/mytechnotalent/wis/blob/main/LICENSE)
