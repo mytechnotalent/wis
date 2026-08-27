@@ -14,6 +14,8 @@ By using this repository and course, you acknowledge and agree that:
 
 ***
 
+<br>
+
 # Indirect Syscalls on Windows x64
 ## An Educational Book Chapter
 
